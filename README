@@ -2,7 +2,7 @@ Externals for Max:
 
 Java externals:
 
-Move the *.class files into your Max classpath.
+compile the *.java files with max's libs, and add the .class files to your max classpath.
 
 package com.pgk.max.midi:
 
