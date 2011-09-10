@@ -1,0 +1,9 @@
+Externals for Max:
+
+Java externals:
+
+Move the *.class files into your Max classpath.
+
+package com.pgk.max.midi:
+
+CCMidiLearn: midi learn a-la ableton live (point to object,move a midi control to map). Supports multiple patchers. Early alpha release.
