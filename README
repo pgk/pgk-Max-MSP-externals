@@ -1,9 +1,3 @@
-Externals for Max:
+PGK Externals for Max:
 
-Java externals:
-
-compile the *.java files with max's libs, and add the .class files to your max classpath.
-
-package com.pgk.max.midi:
-
-CCMidiLearn: midi learn a-la ableton live (point to object,move a midi control to map). Supports multiple patchers. Early alpha release.
+A collection of C/Java/JavaScript externals for Max/MSP.
